@@ -17,7 +17,8 @@ This project demonstrates a basic login page implemented using React. It provide
 
    ```bash
    git clone https://github.com/your-username/react-login-page.git
-Navigate to the project directory:
+
+### Navigate to the project directory:
     cd react-login-page
 
 
@@ -25,11 +26,9 @@ Navigate to the project directory:
     ```bash
     npm install
 
-
 3. **Start the React development server:**
     ```bash
     npm start
-
 
 4. **Access the application:**
 
